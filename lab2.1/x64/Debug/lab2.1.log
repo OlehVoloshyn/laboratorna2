@@ -1,3 +1,4 @@
 ﻿  Source.cpp
 C:\Users\qwer\source\repos\lab2.1\lab2.1\Source.cpp(12,12): warning C4101: z1: неиспользованная локальная переменная
+  LINK : не найден или не выполнена сборка C:\Users\qwer\source\repos\lab2.1\x64\Debug\lab2.1.exe при последней инкрементной компоновке; выполняется полная компоновка
   lab2.1.vcxproj -> C:\Users\qwer\source\repos\lab2.1\x64\Debug\lab2.1.exe
